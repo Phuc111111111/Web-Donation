@@ -8,7 +8,7 @@ Sử dụng: Spring Boot, Spring MVC, Psring Security, Spring Data JPA, SQL serv
 Chức năng của website:
 1. Chức năng của admin
    
-1.1 Hiển thị ra danh sách của người dùng và thêm, sửa, xóa người dùng
+1.1 Quản lý người dùng và thêm, sửa, xóa, tìm kiếm người dùng
 
 ![ASM1_danhsachnguoidung](https://github.com/tuanhung96/web-donation/assets/113849269/8843909d-de33-45af-8e12-2d86f0333b56)
 - Vai trò: sẽ tồn tại 2 vai trò chính trong hệ thống là: người quản lý hệ thống (Admin) và người dùng cơ bản (User)
@@ -22,7 +22,7 @@ Chức năng của website:
 Người dùng sẽ không thể truy cập vào hệ thống và thực hiện được chức năng tương ứng.
 - Ở trạng thái “Mở” thì người dùng sẽ được chuyển từ trạng thái “Đã khóa” sang trạng thái “Hoạt động” tương ứng.
 
-1.4 Quản lý đợt quyên góp
+1.2 Quản lý đợt quyên góp
 - Hiển thị ra danh sách của đợt quyên góp
   
 ![ASM1_danhsachdotquyengop](https://github.com/tuanhung96/web-donation/assets/113849269/e7dad6ad-73c3-42d2-8880-561e6d970f5a)
