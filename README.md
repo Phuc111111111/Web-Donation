@@ -10,7 +10,6 @@ Chức năng của website:
    
 1.1 Quản lý người dùng và thêm, sửa, xóa, tìm kiếm người dùng
 
-![ASM1_danhsachnguoidung](https://github.com/tuanhung96/web-donation/assets/113849269/8843909d-de33-45af-8e12-2d86f0333b56)
 - Vai trò: sẽ tồn tại 2 vai trò chính trong hệ thống là: người quản lý hệ thống (Admin) và người dùng cơ bản (User)
 - Trạng thái: Có hai trạng thái cơ bản trong hệ thống là: Hoạt động và Đã khóa.
 Ở trạng thái “Hoạt động” thì người dùng có thể sử dụng hệ thống cơ bản.
@@ -25,7 +24,6 @@ Người dùng sẽ không thể truy cập vào hệ thống và thực hiện 
 1.2 Quản lý đợt quyên góp
 - Hiển thị ra danh sách của đợt quyên góp
   
-![ASM1_danhsachdotquyengop](https://github.com/tuanhung96/web-donation/assets/113849269/e7dad6ad-73c3-42d2-8880-561e6d970f5a)
 - Thêm, sửa, xóa, tìm kiếm đợt quyên góp
 - Thay đổi trạng thái của một đợt quyên góp
   + Trạng thái mới tạo: Đợt quyên góp vừa mới được khởi tạo chưa bắt đầu chạy quyên góp. Người dùng hệ thống sẽ khởi tạo đợt quyên góp.
@@ -35,7 +33,6 @@ Người dùng sẽ không thể truy cập vào hệ thống và thực hiện 
 
 1.5 Xác nhận/hủy xác nhận với việc nhận được tiền từ nhà quyên góp
 
-![ASM1_xacnhanquyengop](https://github.com/tuanhung96/web-donation/assets/113849269/17bd5b5c-96bf-416c-b0f5-aed5e3e3dc94)
 
 2. Chức năng dành cho user
 - Hiển thị danh sách đợt quyên góp
